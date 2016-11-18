@@ -1,0 +1,22 @@
+{
+  "name": "twittercli",
+  "version": "1.0.0",
+  "description": "a command line interface for navigating, searching, and posting from the twitter api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beamosec/twittercli.git"
+  },
+  "author": "beamosec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beamosec/twittercli/issues"
+  },
+  "homepage": "https://github.com/beamosec/twittercli#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}

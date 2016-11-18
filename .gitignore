@@ -39,3 +39,4 @@ jspm_packages
 # Configuration files
 config.js
 config.json
+lib/core/token.json
